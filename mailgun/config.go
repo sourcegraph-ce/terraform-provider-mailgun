@@ -1,7 +1,7 @@
 package mailgun
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"strings"
 
 	mailgun "github.com/mailgun/mailgun-go/v3"
